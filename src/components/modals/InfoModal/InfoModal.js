@@ -50,7 +50,18 @@ function InfoModal() {
             <AccordionItem value="item-1">
               <AccordionTrigger>What is Curie?</AccordionTrigger>
               <AccordionContent>
-                Curie is a new engagement platform by ZoomRx focused on news and education for healthcare professionals. 
+                Curie is a new engagement platform by ZoomRx focused on news and education for healthcare professionals.
+                <br />
+                <br />
+                Ready to explore? Visit us at{" "}
+                <a
+                  href="https://curie.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline font-bold"
+                >
+                  curie.md
+                </a>.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
